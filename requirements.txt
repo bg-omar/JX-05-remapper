@@ -1,3 +1,5 @@
 PyBluez-updated
-pynput
-bleak
+pynput~=1.7.7
+bleak~=0.22.1
+future~=0.18.3
+keyboard~=0.13.5
